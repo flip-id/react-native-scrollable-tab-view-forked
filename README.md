@@ -25,8 +25,9 @@ the animations behind this work, check out the Rebound section of the
 
 ## Add it to your project
 
-1. Run `npm install react-native-scrollable-tab-view-forked --save`
-2. `import ScrollableTabView, { DefaultTabBar, ScrollableTabBar } from 'react-native-scrollable-tab-view-forked'`
+1. Run `yarn add react-native-scrollable-tab-view-forked`
+2. Run `yarn add react-native-pager-view`
+3. `import ScrollableTabView, { DefaultTabBar, ScrollableTabBar } from 'react-native-scrollable-tab-view-forked'`
 
 ## Demo
 ![示例](https://github.com/LiuC520/react-native-scrollable-tab-view-forked/blob/master/example/example.png)
